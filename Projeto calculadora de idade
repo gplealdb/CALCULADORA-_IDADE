@@ -3,3 +3,11 @@ from tkinter import *
 from tkinter import messagebox
 from dateutil.relativedelta import relativedelta
 from tkcalendar import DateEntry
+
+# DEFINIÇÃO DAS CORES
+# ==========================================
+
+cor1 = "#3b3b3b"
+cor2 = "#333333"
+cor3 = "#ffffff"
+cor4 = "#e9a820"
